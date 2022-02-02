@@ -1,0 +1,2 @@
+# BarmilyenRepoNev
+Megnézzük gyorsba
